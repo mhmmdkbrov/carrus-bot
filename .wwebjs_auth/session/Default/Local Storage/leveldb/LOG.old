@@ -1,0 +1,6 @@
+2026/06/11-13:50:18.575 84c0 Reusing MANIFEST C:\Users\User\wabot\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/11-13:50:18.606 84c0 Recovering log #18
+2026/06/11-13:50:18.614 84c0 Reusing old log C:\Users\User\wabot\.wwebjs_auth\session\Default\Local Storage\leveldb/000018.log 
+2026/06/11-13:51:18.643 ae8c Level-0 table #22: started
+2026/06/11-13:51:18.656 ae8c Level-0 table #22: 15070 bytes OK
+2026/06/11-13:51:18.659 ae8c Delete type=0 #18

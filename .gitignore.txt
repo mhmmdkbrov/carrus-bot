@@ -1,0 +1,5 @@
+node_modules/
+.wwebjs_auth/
+sifarisler.csv
+order_counter.txt
+temp_audio.ogg
